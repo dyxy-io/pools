@@ -22,7 +22,7 @@ flowchart LR
     P1 & P2 & P3 -- fees + rewards --> U
 ```
 
-Liquidity always goes directly into the protocol's own contracts. DYXY charges no fee on pools.
+Liquidity always goes directly into the protocol's own contracts. DYXY charges a service fee on pools, shown before confirmation.
 
 ## Earnings
 
